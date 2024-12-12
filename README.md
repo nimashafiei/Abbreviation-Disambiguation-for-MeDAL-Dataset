@@ -114,6 +114,7 @@ python train.py
 
 ###Evaluate the model:
 python evaluate.py
+```
 
 ## **Technologies Used**
 
